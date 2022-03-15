@@ -4,3 +4,7 @@
 
 * added SprindBoot skeleton project
 * added telegram bot
+
+## 0.2.0-SNAPSHOT
+
+* implement Command pattern for handling Telegram Bot commands
