@@ -42,16 +42,6 @@
 	<build>
 		<plugins>
 			<plugin>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.1</version>
-				<configuration>
-					<source>11</source>
-					<target>11</target>
-					<fork>true</fork>
-					<executable>C:\Users\user\.jdks\corretto-11.0.14.1\bin\javac</executable>
-				</configuration>
-			</plugin>
-			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
