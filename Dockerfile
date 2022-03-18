@@ -1,4 +1,4 @@
-FROM openjdk:11
+FROM openjdk:11.0.14.1
 ARG JAR_FILE=target/*.jar
 ENV BOT_NAME=test_my_javabot1_bot
 ENV BOT_TOKEN=5179702201:AAGfThmJp5RviE95DEHWRwiqrtcDtWsf900
